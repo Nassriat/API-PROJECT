@@ -25,7 +25,7 @@
  + A partir de l'**ID** 
  + A partir du **nom** 
 
- Dans notre cas, pour recuperer un maximu de données, nous avons cherché à partir du nom : **`https://superheroapi.com/api/_acces-token_/search/a`**  
+ Dans notre cas, pour recuperer un maximum de données, nous avons cherché à partir du nom : **`https://superheroapi.com/api/_acces-token_/search/a`**  
  
  Nous avons fait **`search/a`** car logiquement, plusieurs Superheros ont la lettre **'a'** dans le prenom.
  
@@ -38,6 +38,7 @@
  ![JSON SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440037-abdef400-4c42-11eb-8bcc-2aa68723ddf6.PNG)
  
  A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
+ 
 ![DIFFERENTES TABLES SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440295-8ce16180-4c44-11eb-81a6-787880ef5d36.PNG)
 
 
