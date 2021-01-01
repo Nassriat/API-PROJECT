@@ -257,13 +257,17 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 
 Pour tester notre base de données, on a effectué des requetes SQL à partir de la database.
 
-1)
-2)
-3)
+1) **Les superheros qui n'ont pas de description**
 
 ![les superheros qui ont des description est egal à null](https://user-images.githubusercontent.com/75089728/103447333-08193680-4c8a-11eb-8bfc-ca0b140a688f.PNG)
 4c89-11eb-8ab0-e0203c5c7533.PNG)
+
+2) **Les Superheros ayant sortie une BD dont le nombre de serie est superieur à la moyenne**
+
 ![Superheros ayant sortie une BD dont le nombre de serie est superieur à la moyenne](https://user-images.githubusercontent.com/75089728/103447325-fa63b100-4c89-11eb-9e81-7e6d10e75f5a.PNG)
+
+3) **Les superheros qui ont une extension "jpg" mais qui n'ont pas de stories available**
+
 ![Superheros qui ont des vignettes JGN (ou JPG) mais qui n'ont pas de stories available](https://user-images.githubusercontent.com/75089728/103447326-fafc4780-4c89-11eb-889e-21c58c7e7982.PNG)
 
  ---
@@ -363,6 +367,9 @@ Pour tester notre base de données, on a effectué des requetes SQL à partir de
 1)
 2)
 3)
+![REQUETE Population totale in Africa](https://user-images.githubusercontent.com/75089728/103447565-406e4400-4c8d-11eb-9287-b3f526f4f9e8.PNG)
+![REQUETE cb de pays ont pour acronym EU](https://user-images.githubusercontent.com/75089728/103447566-4106da80-4c8d-11eb-83c0-3eba63af079c.PNG)
+![REQUETE pays qui ne sont pas dans Southern Asia](https://user-images.githubusercontent.com/75089728/103447567-419f7100-4c8d-11eb-828c-b03e6461ea22.PNG)
 
 
 ---
