@@ -5,12 +5,15 @@
  * [SUPERHEROS](#SUPERHEROS)
     - [Info API SUPERHEROS](#Info-API-SUPERHEROS)
     - [Dictionnaire des données SUPERHEROS](#Dictionnaire-des-données-SUPERHEROS)
+    - [Création des tables SUPERHEROS](#Création-des-tables-SUPERHEROS) 
  * [MARVEL](#MARVEL)
     - [Info API MARVEL](#Info-API-MARVEL)
     - [Dictionnaire des données MARVEL](#Dictionnaire-des-données-MARVEL)
+    - [Création des tables MARVEL](#Création-des-tables-MARVEL) 
  * [PAYS](#PAYS)
     - [Info API PAYS](#Info-API-PAYS)
     - [Dictionnaire des données PAYS](#Dictionnaire-des-données-PAYS)
+    - [Création des tables PAYS](#Création-des-tables-PAYS) 
  
  
  ## SUPERHEROS
@@ -58,6 +61,10 @@ conn = pyodbc.connect('Driver={SQL Server};'
 ```
 
 Ensuite, il faut faire la requête permettant de créer la table **APPEARENCE** dans *SQL SERVER*
+
+![CODE appearance](https://user-images.githubusercontent.com/75089728/103443264-a8a53180-4c5d-11eb-8fd4-0c24766395e2.PNG)
+
+Nous avons crée cette méthode pour toutes les tables.
  
  ---
  
@@ -98,6 +105,28 @@ Ensuite, il faut faire la requête permettant de créer la table **APPEARENCE** 
 
 ![LES DIFFRERENTES TABLES MARVEL](https://user-images.githubusercontent.com/75089728/103440297-936fd900-4c44-11eb-8bf6-b8bda045faff.PNG)
 
+## Création des tables MARVEL 
+
+**ÉTAPE 3** : Creer les differentes tables à partir du python dans SQL
+
+Comme vu precedemment, nous avons au total sept tables daans la database **MARVEL**.
+Nous allons nous baser sur une seule table **CHARACTERS** pour expliquer plus en detail.
+
+Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
+``` python
+import pyodbc
+conn = pyodbc.connect('Driver={SQL Server};'
+                      'Server=ServerName;'
+                      'Database=MARVEL;'
+                      'Trusted_Connection=yes;')
+```
+
+Ensuite, il faut faire la requête permettant de créer la table **CHARACTERE** dans *SQL SERVER*
+
+
+
+Nous avons crée cette méthode pour toutes les tables.
+
  ---
  
 ## PAYS
@@ -111,7 +140,7 @@ Ensuite, il faut faire la requête permettant de créer la table **APPEARENCE** 
  
  Pour récuperer tous les données, nous avons utilisé le Endpoint ci dessus.
  
- ## Dictionnaire des données SUPERHEROS
+ ## Dictionnaire des données PAYS
  
  **Étape 2** : récuperer les données sous forme JSON Object et création des differents dictionnaires
  
