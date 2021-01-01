@@ -177,17 +177,39 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 
 Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
 1)**CHARACTERS**
+![SQL CHARACTERS](https://user-images.githubusercontent.com/75089728/103444329-c5466700-4c67-11eb-8fda-e1eeaf86ee0b.PNG)
+
 2)**COMICS**
+![SQL COMICS](https://user-images.githubusercontent.com/75089728/103444330-c7102a80-4c67-11eb-90fa-152d19b179d6.PNG)
+
 3)**SERIES**
+![SQL SERIES](https://user-images.githubusercontent.com/75089728/103444343-da22fa80-4c67-11eb-98e4-3c9796dcdde1.PNG)
+
 4)**STORIES**
+![SQL STORIES](https://user-images.githubusercontent.com/75089728/103444344-dd1deb00-4c67-11eb-8631-eef9fc80f4c7.PNG)
+
 5)**EVENTS**
+![SQL EVENTS](https://user-images.githubusercontent.com/75089728/103444366-063e7b80-4c68-11eb-9baf-ce03e6905456.PNG)
+
 6)**DESCRIPTIONS**
+![SQL DESCRIPTION](https://user-images.githubusercontent.com/75089728/103444373-1191a700-4c68-11eb-9c04-96e0e8ffdbe6.PNG)
+
 7)**URL**
+![SQL URL](https://user-images.githubusercontent.com/75089728/103444379-1d7d6900-4c68-11eb-9f73-b8c403424d44.PNG)
+
 8)**THUMBNAIL**
+![SQL THUMBNAIL](https://user-images.githubusercontent.com/75089728/103444349-e6a75300-4c67-11eb-9e21-4abcc47d7f90.PNG)
+
 9)**ITEMS COMICS**
+![SQL ITEMS COMICS](https://user-images.githubusercontent.com/75089728/103444389-2cfcb200-4c68-11eb-9153-bb531176ce9d.PNG)
+
 10)**ITEMS EVENTS**
+
 11)**ITEM SERIES**
+![SQL ITEMS SERIES](https://user-images.githubusercontent.com/75089728/103444393-3128cf80-4c68-11eb-9a1a-f1da94859bbd.PNG)
+
 12)**ITEM STORIES**
+![SQL ITEMS STORIES](https://user-images.githubusercontent.com/75089728/103444395-338b2980-4c68-11eb-8e65-ddc956053304.PNG)
 
  ---
  
