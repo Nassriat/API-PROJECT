@@ -6,14 +6,17 @@
     - [Info API SUPERHEROS](#Info-API-SUPERHEROS)
     - [Dictionnaire des données SUPERHEROS](#Dictionnaire-des-données-SUPERHEROS)
     - [Création des tables SUPERHEROS](#Création-des-tables-SUPERHEROS) 
+    - [Schéma de base de données SUPERHEROS](#Schéma-de-base-de-données-SUPERHEROS)
  * [MARVEL](#MARVEL)
     - [Info API MARVEL](#Info-API-MARVEL)
     - [Dictionnaire des données MARVEL](#Dictionnaire-des-données-MARVEL)
-    - [Création des tables MARVEL](#Création-des-tables-MARVEL) 
+    - [Création des tables MARVEL](#Création-des-tables-MARVEL)
+    - [Schéma de base de données MARVEL](#Schéma-de-base-de-données-MARVEL)
  * [PAYS](#PAYS)
     - [Info API PAYS](#Info-API-PAYS)
     - [Dictionnaire des données PAYS](#Dictionnaire-des-données-PAYS)
-    - [Création des tables PAYS](#Création-des-tables-PAYS) 
+    - [Création des tables PAYS](#Création-des-tables-PAYS)
+    - [Schéma de base de données PAYS](#Schéma-de-base-de-données-PAYS)
  
  
  ## SUPERHEROS
@@ -46,9 +49,9 @@
 
 ## Création des tables SUPERHEROS 
 
-**ÉTAPE 3** : Creer les differentes tables à partir du python dans SQL
+**ÉTAPE 3** : Créer les differentes tables à partir du python dans SQL
 
-Comme vu precedemment, nous avons au total sept tables daans la database **SUPERHEROS**.
+Comme vu precedemment, nous avons au total sept tables daans la database **SUPERHEROS** (la database a été créé dans SQL avant de pouvoir l'utiliser).
 Nous allons nous baser sur une seule table **APPEARENCE** pour expliquer plus en detail.
 
 Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
@@ -64,8 +67,12 @@ Ensuite, il faut faire la requête permettant de créer la table **APPEARENCE** 
 
 ![CODE appearance](https://user-images.githubusercontent.com/75089728/103443264-a8a53180-4c5d-11eb-8fd4-0c24766395e2.PNG)
 
-Nous avons crée cette méthode pour toutes les tables.
+Nous avons créé cette méthode pour toutes les tables.
  
+##Schéma de base de données SUPERHEROS
+
+Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de visualiser le schéma de données.
+
  ---
  
  ## MARVEL
@@ -107,9 +114,9 @@ Nous avons crée cette méthode pour toutes les tables.
 
 ## Création des tables MARVEL 
 
-**ÉTAPE 3** : Creer les differentes tables à partir du python dans SQL
+**ÉTAPE 3** : Créer les differentes tables à partir du python dans SQL
 
-Comme vu precedemment, nous avons au total douze tables daans la database **MARVEL**.
+Comme vu precedemment, nous avons au total douze tables daans la database **MARVEL** (la database a été créé dans SQL avant de pouvoir l'utiliser).
 Nous allons nous baser sur une seule table **CHARACTERS** pour expliquer plus en detail.
 
 Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
@@ -125,8 +132,11 @@ Ensuite, il faut faire la requête permettant de créer la table **CHARACTERS** 
 
 ![CODE characters](https://user-images.githubusercontent.com/75089728/103443506-384bdf80-4c60-11eb-9944-4d0b3821d1fb.PNG)
 
+Nous avons créé cette méthode pour toutes les tables.
 
-Nous avons crée cette méthode pour toutes les tables.
+##Schéma de base de données MARVEL
+
+Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de visualiser le schéma de données.
 
  ---
  
@@ -155,9 +165,9 @@ Nous avons crée cette méthode pour toutes les tables.
 
 ## Création des tables PAYS
 
-**ÉTAPE 3** : Creer les differentes tables à partir du python dans SQL
+**ÉTAPE 3** : Créer les differentes tables à partir du python dans SQL
 
-Comme vu precedemment, nous avons au total dix tables daans la database **PAYS**.
+Comme vu precedemment, nous avons au total dix tables daans la database **PAYS** (la database a été crée dans SQL avant de pouvoir l'utiliser).
 Nous allons nous baser sur une seule table **GEOGRAPHY** pour expliquer plus en detail.
 
 Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
@@ -171,8 +181,13 @@ conn = pyodbc.connect('Driver={SQL Server};'
 
 Ensuite, il faut faire la requête permettant de créer la table **GEOGRAPHY** dans *SQL SERVER*
 
+![CODE geography](https://user-images.githubusercontent.com/75089728/103443508-3da92a00-4c60-11eb-8a47-6c835f5d49c6.PNG)
 
-Nous avons crée cette méthode pour toutes les tables.
+Nous avons créé cette méthode pour toutes les tables.
+
+##Schéma de base de données PAYS
+
+Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de visualiser le schéma de données.
 
 ---
  
