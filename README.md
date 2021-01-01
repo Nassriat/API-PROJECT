@@ -109,7 +109,7 @@ Nous avons crée cette méthode pour toutes les tables.
 
 **ÉTAPE 3** : Creer les differentes tables à partir du python dans SQL
 
-Comme vu precedemment, nous avons au total sept tables daans la database **MARVEL**.
+Comme vu precedemment, nous avons au total douze tables daans la database **MARVEL**.
 Nous allons nous baser sur une seule table **CHARACTERS** pour expliquer plus en detail.
 
 Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
@@ -121,8 +121,9 @@ conn = pyodbc.connect('Driver={SQL Server};'
                       'Trusted_Connection=yes;')
 ```
 
-Ensuite, il faut faire la requête permettant de créer la table **CHARACTERE** dans *SQL SERVER*
+Ensuite, il faut faire la requête permettant de créer la table **CHARACTERS** dans *SQL SERVER*
 
+![CODE characters](https://user-images.githubusercontent.com/75089728/103443506-384bdf80-4c60-11eb-9944-4d0b3821d1fb.PNG)
 
 
 Nous avons crée cette méthode pour toutes les tables.
@@ -151,6 +152,27 @@ Nous avons crée cette méthode pour toutes les tables.
  A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
 
 ![CODE_DIFFERENTES_TABLES PAYS](https://user-images.githubusercontent.com/75089728/103440301-a08cc800-4c44-11eb-968a-5aa8db618e56.PNG)
+
+## Création des tables PAYS
+
+**ÉTAPE 3** : Creer les differentes tables à partir du python dans SQL
+
+Comme vu precedemment, nous avons au total dix tables daans la database **PAYS**.
+Nous allons nous baser sur une seule table **GEOGRAPHY** pour expliquer plus en detail.
+
+Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
+``` python
+import pyodbc
+conn = pyodbc.connect('Driver={SQL Server};'
+                      'Server=ServerName;'
+                      'Database=PAYS;'
+                      'Trusted_Connection=yes;')
+```
+
+Ensuite, il faut faire la requête permettant de créer la table **GEOGRAPHY** dans *SQL SERVER*
+
+
+Nous avons crée cette méthode pour toutes les tables.
 
 ---
  
