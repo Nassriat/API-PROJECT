@@ -41,7 +41,23 @@
  
 ![DIFFERENTES TABLES SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440295-8ce16180-4c44-11eb-81a6-787880ef5d36.PNG)
 
+## Création des tables SUPERHEROS 
 
+**ÉTAPE 3** : Creer les differentes tables à partir du python dans SQL
+
+Comme vu precedemment, nous avons au total sept tables daans la database **SUPERHEROS**.
+Nous allons nous baser sur une seule table **APPEARENCE** pour expliquer plus en detail.
+
+Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
+``` python
+import pyodbc
+conn = pyodbc.connect('Driver={SQL Server};'
+                      'Server=ServerName;'
+                      'Database=SUPERHEROS;'
+                      'Trusted_Connection=yes;')
+```
+
+Ensuite, il faut faire la requête permettant de créer la table **APPEARENCE** dans *SQL SERVER*
  
  ---
  
