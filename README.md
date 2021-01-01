@@ -116,10 +116,22 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 
 Pour tester notre base de données, on a effectué des requetes SQL à partir de la database.
 
-1)
-2)
-3)
-4)
+1) **Tous les Superheros et leur nom complet qui sont de race humaine**
+
+![REQUETE tous les SH FN ID - de race humaine](https://user-images.githubusercontent.com/75089728/103447130-537e1580-4c87-11eb-9a9b-20ca1d9e1256.PNG)
+
+2) **Tous les Superheros qui ont une intelligence comprise entre 60 et 70**
+
+![REQUETE tous les SH qui ont une intelligence comprise entre 60 et 70](https://user-images.githubusercontent.com/75089728/103447132-54af4280-4c87-11eb-8acb-12cbf7a76d4b.PNG)
+
+3) **Top 100 des Superheros par ordre alphabétique ayant le maximum de combat**
+
+![Top 100 des superheros par ordre alphabetique et le maximu de combat effectué](https://user-images.githubusercontent.com/75089728/103447139-655fb880-4c87-11eb-893f-b6f3ddb7debe.PNG)
+
+4) **Noms des Superheros qui n'ont pas de cheveux "Hair_color = No Hair"**
+
+![Nom des SH qui n'ont pas de cheveux No_Hair](https://user-images.githubusercontent.com/75089728/103447146-77415b80-4c87-11eb-9f73-074b5b1733f6.PNG)
+
  ---
  
  ## MARVEL
