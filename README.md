@@ -8,18 +8,21 @@
     - [Création des tables SUPERHEROS](#Création-des-tables-SUPERHEROS) 
     - [Schéma de base de données SUPERHEROS](#Schéma-de-base-de-données-SUPERHEROS)
     - [Remplissage des tables SUPEREHEROS](#Remplissage-des-tables-SUPERHEROS)
+    - [Exemples de requêtes SQL SUPERHEROS](#Exemple-de-requetes-SQL-SUPERHEROS)
  * [MARVEL](#MARVEL)
     - [Info API MARVEL](#Info-API-MARVEL)
     - [Dictionnaire des données MARVEL](#Dictionnaire-des-données-MARVEL)
     - [Création des tables MARVEL](#Création-des-tables-MARVEL)
     - [Schéma de base de données MARVEL](#Schéma-de-base-de-données-MARVEL)
     - [Remplissage des tables MARVEL](#Remplissage-des-tables-MARVEL)
+    - [Exemples de requêtes SQL MARVEL](#Exemple-de-requetes-SQL-MARVEL)
  * [PAYS](#PAYS)
     - [Info API PAYS](#Info-API-PAYS)
     - [Dictionnaire des données PAYS](#Dictionnaire-des-données-PAYS)
     - [Création des tables PAYS](#Création-des-tables-PAYS)
     - [Schéma de base de données PAYS](#Schéma-de-base-de-données-PAYS)
     - [Remplissage des tables PAYS](#Remplissage-des-tables-PAYS)
+    - [Exemples de requêtes SQL PAYS](#Exemple-de-requetes-SQL-PAYS)
  
  
  ## SUPERHEROS
@@ -108,6 +111,15 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 7) **IMAGE**
 
 ![SQL IMAGE](https://user-images.githubusercontent.com/75089728/103444164-37b64780-4c66-11eb-958d-69a9600b32ae.PNG)
+
+## Exemples de requêtes SQL SUPERHEROS
+
+Pour tester notre base de données, on a effectué des requetes SQL à partir de la database.
+
+1)
+2)
+3)
+4)
  ---
  
  ## MARVEL
@@ -229,6 +241,15 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 
 ![SQL ITEMS STORIES](https://user-images.githubusercontent.com/75089728/103444395-338b2980-4c68-11eb-8e65-ddc956053304.PNG)
 
+## Exemples de requêtes SQL MARVEL
+
+Pour tester notre base de données, on a effectué des requetes SQL à partir de la database.
+
+1)
+2)
+3)
+
+
  ---
  
 ## PAYS
@@ -318,6 +339,15 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 8) **TRANSLATION**
 
 ![SQL_TRANSLATION](https://user-images.githubusercontent.com/75089728/103444562-84e7e880-4c69-11eb-85c9-caf84ffe60b4.PNG)
+
+## Exemples de requêtes SQL PAYS
+
+Pour tester notre base de données, on a effectué des requetes SQL à partir de la database.
+
+1)
+2)
+3)
+
 
 ---
  
