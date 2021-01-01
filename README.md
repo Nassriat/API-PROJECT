@@ -7,16 +7,19 @@
     - [Dictionnaire des données SUPERHEROS](#Dictionnaire-des-données-SUPERHEROS)
     - [Création des tables SUPERHEROS](#Création-des-tables-SUPERHEROS) 
     - [Schéma de base de données SUPERHEROS](#Schéma-de-base-de-données-SUPERHEROS)
+    - [Remplissage des tables SUPEREHEROS](#Remplissage-des-tables-SUPERHEROS)
  * [MARVEL](#MARVEL)
     - [Info API MARVEL](#Info-API-MARVEL)
     - [Dictionnaire des données MARVEL](#Dictionnaire-des-données-MARVEL)
     - [Création des tables MARVEL](#Création-des-tables-MARVEL)
     - [Schéma de base de données MARVEL](#Schéma-de-base-de-données-MARVEL)
+    - [Remplissage des tables MARVEL](#Remplissage-des-tables-MARVEL)
  * [PAYS](#PAYS)
     - [Info API PAYS](#Info-API-PAYS)
     - [Dictionnaire des données PAYS](#Dictionnaire-des-données-PAYS)
     - [Création des tables PAYS](#Création-des-tables-PAYS)
     - [Schéma de base de données PAYS](#Schéma-de-base-de-données-PAYS)
+    - [Remplissage des tables PAYS](#Remplissage-des-tables-PAYS)
  
  
  ## SUPERHEROS
@@ -36,7 +39,6 @@
  Nous avons fait **`search/a`** car logiquement, plusieurs Superheros ont la lettre **'a'** dans le prenom.
  
  ## Dictionnaire des données SUPERHEROS
- 
  **Étape 2** : récuperer les données sous forme JSON Object et création des differents dictionnaires
  
  En transformant le code en _Python JSON Object_ nous obtenons des données structurées (un extrait):
@@ -48,7 +50,6 @@
 ![DIFFERENTES TABLES SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440295-8ce16180-4c44-11eb-81a6-787880ef5d36.PNG)
 
 ## Création des tables SUPERHEROS 
-
 **ÉTAPE 3** : Créer les differentes tables à partir du python dans SQL
 
 Comme vu precedemment, nous avons au total sept tables daans la database **SUPERHEROS** (la database a été créé dans SQL avant de pouvoir l'utiliser).
@@ -75,7 +76,18 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 
 ![SCHEMA BDD](https://user-images.githubusercontent.com/75089728/103443914-e0af7300-4c63-11eb-9c1a-14cf9f76f0f8.PNG)
 
+## Remplissage des tables SUPERHEROS
+**Étape 4** : remplir les tables à partir de Python et les visualiser sur SQL SERVER 
 
+Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
+1) **PERSONNAGE**
+
+2) **
+3)
+4)
+5)
+6)
+7)
  ---
  
  ## MARVEL
