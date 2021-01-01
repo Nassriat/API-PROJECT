@@ -181,51 +181,51 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 
 Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
 
-1)**CHARACTERS**
+1) **CHARACTERS**
 
 ![SQL CHARACTERS](https://user-images.githubusercontent.com/75089728/103444329-c5466700-4c67-11eb-8fda-e1eeaf86ee0b.PNG)
 
-2)**COMICS**
+2) **COMICS**
 
 ![SQL COMICS](https://user-images.githubusercontent.com/75089728/103444330-c7102a80-4c67-11eb-90fa-152d19b179d6.PNG)
 
-3)**SERIES**
+3) **SERIES**
 
 ![SQL SERIES](https://user-images.githubusercontent.com/75089728/103444343-da22fa80-4c67-11eb-98e4-3c9796dcdde1.PNG)
 
-4)**STORIES**
+4) **STORIES**
 
 ![SQL STORIES](https://user-images.githubusercontent.com/75089728/103444344-dd1deb00-4c67-11eb-8631-eef9fc80f4c7.PNG)
 
-5)**EVENTS**
+5) **EVENTS**
 
 ![SQL EVENTS](https://user-images.githubusercontent.com/75089728/103444366-063e7b80-4c68-11eb-9baf-ce03e6905456.PNG)
 
-6)**DESCRIPTIONS**
+6) **DESCRIPTIONS**
 
 ![SQL DESCRIPTION](https://user-images.githubusercontent.com/75089728/103444373-1191a700-4c68-11eb-9c04-96e0e8ffdbe6.PNG)
 
-7)**URL**
+7) **URL**
 
 ![SQL URL](https://user-images.githubusercontent.com/75089728/103444379-1d7d6900-4c68-11eb-9f73-b8c403424d44.PNG)
 
-8)**THUMBNAIL**
+8) **THUMBNAIL**
 
 ![SQL THUMBNAIL](https://user-images.githubusercontent.com/75089728/103444349-e6a75300-4c67-11eb-9e21-4abcc47d7f90.PNG)
 
-9)**ITEMS COMICS**
+9) **ITEMS COMICS**
 
 ![SQL ITEMS COMICS](https://user-images.githubusercontent.com/75089728/103444389-2cfcb200-4c68-11eb-9153-bb531176ce9d.PNG)
 
-10)**ITEMS EVENTS**
+10) **ITEMS EVENTS**
 
 ![SQL ITEMS EVENTS](https://user-images.githubusercontent.com/75089728/103444459-ac8a8100-4c68-11eb-8eb1-15542f28bdf1.PNG)
 
-11)**ITEM SERIES**
+11) **ITEM SERIES**
 
 ![SQL ITEMS SERIES](https://user-images.githubusercontent.com/75089728/103444393-3128cf80-4c68-11eb-9a1a-f1da94859bbd.PNG)
 
-12)**ITEM STORIES**
+12) **ITEM STORIES**
 
 ![SQL ITEMS STORIES](https://user-images.githubusercontent.com/75089728/103444395-338b2980-4c68-11eb-8e65-ddc956053304.PNG)
 
@@ -287,35 +287,35 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 
 Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
 
-1)**PAYS**
+1) **PAYS**
 
 ![SQL_PAYS](https://user-images.githubusercontent.com/75089728/103444559-831e2500-4c69-11eb-8fd5-9ce2cad079be.PNG)
 
-2)**GEOGRAPHY**
+2) **GEOGRAPHY**
 
 ![SQL_GEOGRAPHY](https://user-images.githubusercontent.com/75089728/103444564-86191580-4c69-11eb-816b-401f689beabb.PNG)
 
-3)**REGIONAL BLOCS**
+3) **REGIONAL BLOCS**
 
 ![SQL_REGIONAL_BLOCS](https://user-images.githubusercontent.com/75089728/103444560-844f5200-4c69-11eb-906f-668a89a042e1.PNG)
 
-4)**ORIGIN**
+4) **ORIGIN**
 
 ![SQL_ORIGIN](https://user-images.githubusercontent.com/75089728/103444566-874a4280-4c69-11eb-8c7e-0d45c1f8a0a9.PNG)
 
-5)**SPECIAL CODES**
+5) **SPECIAL CODES**
 
 ![SQL_SPECIAL_CODES](https://user-images.githubusercontent.com/75089728/103444561-844f5200-4c69-11eb-90a7-b8e71d7ad43e.PNG)
 
-6)**LANGUAGES**
+6) **LANGUAGES**
 
 ![SQL_LANGUAGES](https://user-images.githubusercontent.com/75089728/103444565-86b1ac00-4c69-11eb-82bb-1fd58bd514dd.PNG)
 
-7)**CURRENCIES**
+7) **CURRENCIES**
 
 ![SQL_CURRENCIES](https://user-images.githubusercontent.com/75089728/103444563-85807f00-4c69-11eb-8a96-b95244525a91.PNG)
 
-8)**TRANSLATION**
+8) **TRANSLATION**
 
 ![SQL_TRANSLATION](https://user-images.githubusercontent.com/75089728/103444562-84e7e880-4c69-11eb-85c9-caf84ffe60b4.PNG)
 
