@@ -80,6 +80,7 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 **Étape 4** : remplir les tables à partir de Python et les visualiser sur SQL SERVER 
 
 Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
+
 1) **PERSONNAGE**
 ![SQL PERSONNAGE](https://user-images.githubusercontent.com/75089728/103444141-00479b00-4c66-11eb-90e0-bf5f191e7ae4.PNG)
 
@@ -270,14 +271,31 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 **Étape 4** : remplir les tables à partir de Python et les visualiser sur SQL SERVER 
 
 Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
+
 1)**PAYS**
+![SQL_PAYS](https://user-images.githubusercontent.com/75089728/103444559-831e2500-4c69-11eb-8fd5-9ce2cad079be.PNG)
+
 2)**GEOGRAPHY**
+![SQL_GEOGRAPHY](https://user-images.githubusercontent.com/75089728/103444564-86191580-4c69-11eb-816b-401f689beabb.PNG)
+
 3)**REGIONAL BLOCS**
+![SQL_REGIONAL_BLOCS](https://user-images.githubusercontent.com/75089728/103444560-844f5200-4c69-11eb-906f-668a89a042e1.PNG)
+
 4)**ORIGIN**
+![SQL_ORIGIN](https://user-images.githubusercontent.com/75089728/103444566-874a4280-4c69-11eb-8c7e-0d45c1f8a0a9.PNG)
+
 5)**SPECIAL CODES**
+![SQL_SPECIAL_CODES](https://user-images.githubusercontent.com/75089728/103444561-844f5200-4c69-11eb-90a7-b8e71d7ad43e.PNG)
+
 6)**LANGUAGES**
+![SQL_LANGUAGES](https://user-images.githubusercontent.com/75089728/103444565-86b1ac00-4c69-11eb-82bb-1fd58bd514dd.PNG)
+
 7)**CURRENCIES**
+![SQL_CURRENCIES](https://user-images.githubusercontent.com/75089728/103444563-85807f00-4c69-11eb-8a96-b95244525a91.PNG)
+
 8)**TRANSLATION**
+![SQL_TRANSLATION](https://user-images.githubusercontent.com/75089728/103444562-84e7e880-4c69-11eb-85c9-caf84ffe60b4.PNG)
+
 ---
  
  
