@@ -69,7 +69,6 @@
  Pour recuperer les données, nous avons utiliser : **`http://gateway.marvel.com/v1/public/characters`**
  
  Il faut savoir que le nombre de données est limité à 100.
- ![JSON MARVEL](https://user-images.githubusercontent.com/75089728/103440036-ab465d80-4c42-11eb-8f7c-9a2c630ccd32.PNG)
  
   ## Dictionnaire des données MARVEL
  
@@ -96,8 +95,6 @@
  
  Pour récuperer tous les données, nous avons utilisé le Endpoint ci dessus.
  
- ![JSON_PAYS](https://user-images.githubusercontent.com/75089728/103440038-ad102100-4c42-11eb-9bfb-404461698203.PNG)
-
  ## Dictionnaire des données SUPERHEROS
  
  **Étape 2** : récuperer les données sous forme JSON Object et création des differents dictionnaires
