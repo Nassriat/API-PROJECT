@@ -38,6 +38,7 @@
  ![JSON SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440037-abdef400-4c42-11eb-8bcc-2aa68723ddf6.PNG)
  
  A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
+![DIFFERENTES TABLES SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440295-8ce16180-4c44-11eb-81a6-787880ef5d36.PNG)
 
 
  
@@ -76,10 +77,10 @@
  En transformant le code en _Python JSON Object_ nous obtenons des données structurées (un extrait):
  
 ![JSON MARVEL](https://user-images.githubusercontent.com/75089728/103440036-ab465d80-4c42-11eb-8f7c-9a2c630ccd32.PNG)
-
  
  A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
 
+![LES DIFFRERENTES TABLES MARVEL](https://user-images.githubusercontent.com/75089728/103440297-936fd900-4c44-11eb-8bf6-b8bda045faff.PNG)
 
  ---
  
@@ -106,6 +107,7 @@
  
  A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
 
+![CODE_DIFFERENTES_TABLES PAYS](https://user-images.githubusercontent.com/75089728/103440301-a08cc800-4c44-11eb-968a-5aa8db618e56.PNG)
 
 ---
  
