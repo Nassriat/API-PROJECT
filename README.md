@@ -261,6 +261,10 @@ Pour tester notre base de données, on a effectué des requetes SQL à partir de
 2)
 3)
 
+![les superheros qui ont des description est egal à null](https://user-images.githubusercontent.com/75089728/103447333-08193680-4c8a-11eb-8bfc-ca0b140a688f.PNG)
+4c89-11eb-8ab0-e0203c5c7533.PNG)
+![Superheros ayant sortie une BD dont le nombre de serie est superieur à la moyenne](https://user-images.githubusercontent.com/75089728/103447325-fa63b100-4c89-11eb-9e81-7e6d10e75f5a.PNG)
+![Superheros qui ont des vignettes JGN (ou JPG) mais qui n'ont pas de stories available](https://user-images.githubusercontent.com/75089728/103447326-fafc4780-4c89-11eb-889e-21c58c7e7982.PNG)
 
  ---
  
