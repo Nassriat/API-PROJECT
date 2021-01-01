@@ -176,6 +176,7 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 **Étape 4** : remplir les tables à partir de Python et les visualiser sur SQL SERVER 
 
 Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
+
 1)**CHARACTERS**
 ![SQL CHARACTERS](https://user-images.githubusercontent.com/75089728/103444329-c5466700-4c67-11eb-8fda-e1eeaf86ee0b.PNG)
 
@@ -204,6 +205,7 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 ![SQL ITEMS COMICS](https://user-images.githubusercontent.com/75089728/103444389-2cfcb200-4c68-11eb-9153-bb531176ce9d.PNG)
 
 10)**ITEMS EVENTS**
+![SQL ITEMS EVENTS](https://user-images.githubusercontent.com/75089728/103444459-ac8a8100-4c68-11eb-8eb1-15542f28bdf1.PNG)
 
 11)**ITEM SERIES**
 ![SQL ITEMS SERIES](https://user-images.githubusercontent.com/75089728/103444393-3128cf80-4c68-11eb-9a1a-f1da94859bbd.PNG)
@@ -240,7 +242,7 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 
 **ÉTAPE 3** : Créer les differentes tables à partir du python dans SQL
 
-Comme vu precedemment, nous avons au total dix tables daans la database **PAYS** (la database a été crée dans SQL avant de pouvoir l'utiliser).
+Comme vu precedemment, nous avons au total huit tables daans la database **PAYS** (la database a été crée dans SQL avant de pouvoir l'utiliser).
 Nous allons nous baser sur une seule table **GEOGRAPHY** pour expliquer plus en detail.
 
 Tous d'abord, il faut connecter *Python* à *SQL SERVER* en utilisante la librairie **`pyodbc`**.
@@ -264,6 +266,18 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 
 ![SCHEMA_BDD](https://user-images.githubusercontent.com/75089728/103443920-eefd8f00-4c63-11eb-9b20-0496e2fda441.PNG)
 
+## Remplissage des tables PAYS
+**Étape 4** : remplir les tables à partir de Python et les visualiser sur SQL SERVER 
+
+Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
+1)**PAYS**
+2)**GEOGRAPHY**
+3)**REGIONAL BLOCS**
+4)**ORIGIN**
+5)**SPECIAL CODES**
+6)**LANGUAGES**
+7)**CURRENCIES**
+8)**TRANSLATION**
 ---
  
  
