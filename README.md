@@ -81,13 +81,30 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 
 Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
 1) **PERSONNAGE**
+![SQL PERSONNAGE](https://user-images.githubusercontent.com/75089728/103444141-00479b00-4c66-11eb-90e0-bf5f191e7ae4.PNG)
 
-2) **
-3)
-4)
-5)
-6)
-7)
+2) **APPARENCE**
+![SQL APPEARANCE](https://user-images.githubusercontent.com/75089728/103444138-f7ef6000-4c65-11eb-92d7-cc4d8ca56436.PNG)
+
+
+3)**POWERSTATS**
+![SQL POWERSTATS](https://user-images.githubusercontent.com/75089728/103444154-210ff080-4c66-11eb-99cb-07a2c4027c67.PNG)
+
+
+4)**BIOGRAPHY**
+![SQL BIOGRAPHY](https://user-images.githubusercontent.com/75089728/103444155-240ae100-4c66-11eb-882e-4ae17b6ab6b9.PNG)
+
+
+5)**CONNECTION**
+![SQL CONNECTION](https://user-images.githubusercontent.com/75089728/103444158-29682b80-4c66-11eb-9246-1bfcd43045ba.PNG)
+
+
+6)**WORK**
+![SQL WORK](https://user-images.githubusercontent.com/75089728/103444163-2f5e0c80-4c66-11eb-92c3-646fa7204b45.PNG)
+
+
+7)**IMAGE**
+![SQL IMAGE](https://user-images.githubusercontent.com/75089728/103444164-37b64780-4c66-11eb-958d-69a9600b32ae.PNG)
  ---
  
  ## MARVEL
@@ -155,6 +172,22 @@ Aprés avoir créer toutes les tables, nous pouvons aller sur SQL SERVER afin de
 
 ![SCHEMA BDD](https://user-images.githubusercontent.com/75089728/103443917-e73dea80-4c63-11eb-848c-0580e3cb7fb6.PNG)
 
+## Remplissage des tables MARVEL
+**Étape 4** : remplir les tables à partir de Python et les visualiser sur SQL SERVER 
+
+Apres avoir rempli les tables à partir de Python, nous pouvons desormais les visualiser sur SQL
+1)**CHARACTERS**
+2)**COMICS**
+3)**SERIES**
+4)**STORIES**
+5)**EVENTS**
+6)**DESCRIPTIONS**
+7)**URL**
+8)**THUMBNAIL**
+9)**ITEMS COMICS**
+10)**ITEMS EVENTS**
+11)**ITEM SERIES**
+12)**ITEM STORIES**
 
  ---
  
