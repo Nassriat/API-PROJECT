@@ -97,7 +97,9 @@ Apparence de chaque personnage
 ![SQL APPEARANCE](https://user-images.githubusercontent.com/75089728/103444138-f7ef6000-4c65-11eb-92d7-cc4d8ca56436.PNG)
 
 3) **POWERSTATS**
+
 Powerstats correspondant à un personnage
+
 ![SQL POWERSTATS](https://user-images.githubusercontent.com/75089728/103444154-210ff080-4c66-11eb-99cb-07a2c4027c67.PNG)
 
 4) **BIOGRAPHY**
