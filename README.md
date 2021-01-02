@@ -48,7 +48,7 @@
  
  ![JSON SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440037-abdef400-4c42-11eb-8bcc-2aa68723ddf6.PNG)
  
- A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
+ A partir de cela, nous avons donc fait la liste des tables que nous allons créer sur SQL : 
  
 ![DIFFERENTES TABLES SUPERHEROS](https://user-images.githubusercontent.com/75089728/103440295-8ce16180-4c44-11eb-81a6-787880ef5d36.PNG)
 
@@ -86,29 +86,41 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 
 1) **PERSONNAGE**
 
+Nom de chaque personnage
+
 ![SQL PERSONNAGE](https://user-images.githubusercontent.com/75089728/103444141-00479b00-4c66-11eb-90e0-bf5f191e7ae4.PNG)
 
 2) **APPARENCE**
 
+Apparence de chaque personnage
+
 ![SQL APPEARANCE](https://user-images.githubusercontent.com/75089728/103444138-f7ef6000-4c65-11eb-92d7-cc4d8ca56436.PNG)
 
 3) **POWERSTATS**
-
+Powerstats correspondant à un personnage
 ![SQL POWERSTATS](https://user-images.githubusercontent.com/75089728/103444154-210ff080-4c66-11eb-99cb-07a2c4027c67.PNG)
 
 4) **BIOGRAPHY**
+
+Biographie du personnage
 
 ![SQL BIOGRAPHY](https://user-images.githubusercontent.com/75089728/103444155-240ae100-4c66-11eb-882e-4ae17b6ab6b9.PNG)
 
 5) **CONNECTION**
 
+Les connections du personnage
+
 ![SQL CONNECTION](https://user-images.githubusercontent.com/75089728/103444158-29682b80-4c66-11eb-9246-1bfcd43045ba.PNG)
 
 6) **WORK**
 
+travail/occupation du personnage
+
 ![SQL WORK](https://user-images.githubusercontent.com/75089728/103444163-2f5e0c80-4c66-11eb-92c3-646fa7204b45.PNG)
 
 7) **IMAGE**
+
+Image du personnage
 
 ![SQL IMAGE](https://user-images.githubusercontent.com/75089728/103444164-37b64780-4c66-11eb-958d-69a9600b32ae.PNG)
 
@@ -168,7 +180,7 @@ Pour tester notre base de données, on a effectué des requetes SQL à partir de
  
 ![JSON MARVEL](https://user-images.githubusercontent.com/75089728/103440036-ab465d80-4c42-11eb-8f7c-9a2c630ccd32.PNG)
  
- A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
+ A partir de cela, nous avons donc fait la liste des tables que nous allons créer sur SQL : 
 
 ![LES DIFFRERENTES TABLES MARVEL](https://user-images.githubusercontent.com/75089728/103440297-936fd900-4c44-11eb-8bf6-b8bda045faff.PNG)
 
@@ -207,49 +219,73 @@ Apres avoir rempli les tables à partir de Python, nous pouvons desormais les vi
 
 1) **CHARACTERS**
 
+Le nom du personnage
+
 ![SQL CHARACTERS](https://user-images.githubusercontent.com/75089728/103444329-c5466700-4c67-11eb-8fda-e1eeaf86ee0b.PNG)
 
 2) **COMICS**
+
+Une liste de ressources contenant des bandes dessinées mettant en vedette ce personnage 
 
 ![SQL COMICS](https://user-images.githubusercontent.com/75089728/103444330-c7102a80-4c67-11eb-90fa-152d19b179d6.PNG)
 
 3) **SERIES**
 
+Une liste de ressources de series dans lesquelles ce personnage apparait
+
 ![SQL SERIES](https://user-images.githubusercontent.com/75089728/103444343-da22fa80-4c67-11eb-98e4-3c9796dcdde1.PNG)
 
 4) **STORIES**
+
+Une liste de ressources d'histoires dans lesquelles ce personnage apparait
 
 ![SQL STORIES](https://user-images.githubusercontent.com/75089728/103444344-dd1deb00-4c67-11eb-8631-eef9fc80f4c7.PNG)
 
 5) **EVENTS**
 
+Une liste de ressources d'événements dans lesquelles ce personnage apparait
+
 ![SQL EVENTS](https://user-images.githubusercontent.com/75089728/103444366-063e7b80-4c68-11eb-9baf-ce03e6905456.PNG)
 
 6) **DESCRIPTIONS**
+
+Une courte biographie ou description du personnage
 
 ![SQL DESCRIPTION](https://user-images.githubusercontent.com/75089728/103444373-1191a700-4c68-11eb-9c04-96e0e8ffdbe6.PNG)
 
 7) **URL**
 
+Un ensemble d'URL de site Web public pour la ressource
+
 ![SQL URL](https://user-images.githubusercontent.com/75089728/103444379-1d7d6900-4c68-11eb-9f73-b8c403424d44.PNG)
 
 8) **THUMBNAIL**
+
+L'image representative de ce personnage 
 
 ![SQL THUMBNAIL](https://user-images.githubusercontent.com/75089728/103444349-e6a75300-4c67-11eb-9e21-4abcc47d7f90.PNG)
 
 9) **ITEMS COMICS**
 
+Liste de ressources d'événement liées au personnage 
+
 ![SQL ITEMS COMICS](https://user-images.githubusercontent.com/75089728/103444389-2cfcb200-4c68-11eb-9153-bb531176ce9d.PNG)
 
 10) **ITEMS EVENTS**
+
+Liste de ressources d'événement liées au personnage 
 
 ![SQL ITEMS EVENTS](https://user-images.githubusercontent.com/75089728/103444459-ac8a8100-4c68-11eb-8eb1-15542f28bdf1.PNG)
 
 11) **ITEM SERIES**
 
+Liste de ressources d'événement liées au personnage 
+
 ![SQL ITEMS SERIES](https://user-images.githubusercontent.com/75089728/103444393-3128cf80-4c68-11eb-9a1a-f1da94859bbd.PNG)
 
 12) **ITEM STORIES**
+
+Liste de ressources d'article liées au personnage 
 
 ![SQL ITEMS STORIES](https://user-images.githubusercontent.com/75089728/103444395-338b2980-4c68-11eb-8e65-ddc956053304.PNG)
 
@@ -266,7 +302,7 @@ Pour tester notre base de données, on a effectué des requetes SQL à partir de
 
 ![Superheros ayant sortie une BD dont le nombre de serie est superieur à la moyenne](https://user-images.githubusercontent.com/75089728/103447325-fa63b100-4c89-11eb-9e81-7e6d10e75f5a.PNG)
 
-3) **Les superheros qui ont une extension "jpg" et dont available est egale 0 dans stories **
+3) **Les superheros qui ont une extension "jpg" et dont le nombre total d'articles disponibles est égale à 0 **
 
 ![Superheros qui ont des vignettes JGN (ou JPG) mais qui n'ont pas de stories available](https://user-images.githubusercontent.com/75089728/103447326-fafc4780-4c89-11eb-889e-21c58c7e7982.PNG)
 
@@ -291,7 +327,7 @@ Pour tester notre base de données, on a effectué des requetes SQL à partir de
  
 ![JSON_PAYS](https://user-images.githubusercontent.com/75089728/103440038-ad102100-4c42-11eb-9bfb-404461698203.PNG)
  
- A partir de cela, nous avons donc fait la liste des tables que nous allons creer sur SQL : 
+ A partir de cela, nous avons donc fait la liste des tables que nous allons créer sur SQL : 
 
 ![CODE_DIFFERENTES_TABLES PAYS](https://user-images.githubusercontent.com/75089728/103440301-a08cc800-4c44-11eb-968a-5aa8db618e56.PNG)
 
