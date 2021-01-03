@@ -299,7 +299,6 @@ Pour tester notre base de données, on a effectué des requetes SQL à partir de
 1) **Les superheros qui n'ont pas de description**
 
 ![les superheros qui ont des description est egal à null](https://user-images.githubusercontent.com/75089728/103447333-08193680-4c8a-11eb-8bfc-ca0b140a688f.PNG)
-4c89-11eb-8ab0-e0203c5c7533.PNG)
 
 2) **Les Superheros ayant un nombre de comics dont le nombre de series est superieur à la moyenne**
 
